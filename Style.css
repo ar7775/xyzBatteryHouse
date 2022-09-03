@@ -1,0 +1,300 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.home-logo {
+    height: 75px;
+    width: 90px;
+}
+
+.navItem {
+    color: black;
+    font-family: "sans-serif";
+}
+a:hover{
+    font-family: sans-serif;
+    font-weight:bold;
+}
+
+.banner-section-bg-image{
+    height:100vh;
+    background-image:url("Assests/banner-section-img.jpg");
+    background-size: cover;
+}
+.banner-section-heading {
+    padding: 25px;
+    color: #fcfafa;
+    font-family: "bree serif";
+    font-size: 32px;
+}
+
+.banner-section-para {
+    color: #fcfafa;
+    font-size: 26px;
+    font-family:sans-serif;
+}
+
+.button {
+    height: 45px;
+    width: 130px;
+    border-radius: 8px;
+    color: white;
+    background-color: #e99f15;
+    border-width: 0;
+    margin-right: 10px;
+}
+
+.button-outline {
+    width: 130px;
+    height: 45px;
+    color: white;
+    background-color: transparent;
+    border-width: 1px;
+    border-style: solid;
+    border-color: white;
+    border-radius: 8px;
+}
+
+.About-Heading{
+    color:#314961;
+    font-size:35px;
+    font-family:"fantasy";
+    text-align: left;
+    display:flex;
+    justify-content: left;
+    padding-left:200px;
+    font-weight: bold;
+}
+.about-section{
+    background-color: #fff;
+}
+
+.About-para{
+    display:flex;
+    justify-content: center;
+    text-align: center;
+    font-size:26px;
+    color:black;
+    font-family:sans-serif;
+    padding: 20px;
+
+}
+
+
+.blog-card1-p {
+    color: #323f4b;
+    font-size: 26px;
+    text-align: center;
+    font-family:"sans-serif";
+
+}
+
+.products-heading{
+    color:#314961;
+    font-size:35px;
+    font-family:"fantasy";
+    text-align: left;
+    display:flex;
+    justify-content: left;
+    padding-left:200px;
+    font-weight: bold;
+
+}
+.br-main-container {
+    background-color: white;
+}
+
+.br-card1 {
+    background-color: white;
+    border-radius: 15px;
+}
+
+.br-main-container-h {
+    font-family: "sans-serif";
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.br-img01 {
+    height: 220px;
+    width: 225px;
+}
+
+.br-img-h {
+    color: #000;
+    font-family: "sans-serif";
+    font-size: 18px;
+}
+.embed-responsive{
+    border-radius: 30px;
+    padding:20px;
+}
+
+.explore-services-section {
+    background-color: white;
+
+}
+
+.explore-services-heading {
+    font-family: "sans serif";
+    font-weight: 700;
+    font-size: 28px;
+    color: #183b56;
+
+}
+.oem{
+    color:black;
+}
+
+
+
+.services-item-card {
+    border-radius: 16px;
+    background-color: grey;
+}
+
+
+.services{
+    font-family: "sans-serif";
+    color:#000;
+}
+
+
+
+.br-effects-bottom-bg {
+    background-color: #19232d;
+    background-size: cover;
+}
+
+.br-effects-img {
+    height: 75px;
+    width: 80px;
+    border-radius: 10px;
+    
+}
+.mobile{
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: sans-serif;
+    margin:20px;
+
+}
+.Email{
+    color:white;
+    font-size: 18px;
+    font-weight: bold;
+    font-family: sans-serif;
+    padding:0px;
+    margin:auto;
+
+}
+
+
+
+.vr-effects-h {
+    color: #5a7184;
+    font-family: "sans-serif";
+    font-size: 20px;
+}
+
+.vr-effects--below-h {
+    color: #ffffff;
+    font-family: "sans-serif";
+    font-size: 22px;
+    font-weight: bold;
+}
+
+.br-effects-below-p {
+    color:#ffffff;
+    font-family: "sans-serif";
+    font-size: 17px;
+
+}
+
+.line001 {
+    width: 95%;
+    border-width: 2px;
+    background-color: #5a7184;
+
+
+}
+.vr-effects-icon {
+    color: #5a7184;
+    background-color: #202b36;
+    font-size: 25px;
+    height: 50px;
+    width: 50px;
+    padding-top: 12px;
+    padding-bottom: 10px;
+    padding-left: 13px;
+    padding-right: 10px;
+    border-radius: 40px;
+    margin: 6px;
+}
+
+.vr-effects-icon2 {
+    color: #5a7184;
+    font-size: 20px;
+    height: 50px;
+    width: 40px;
+    padding-left: 5px;
+    padding-top: 5px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
